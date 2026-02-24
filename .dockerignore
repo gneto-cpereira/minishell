@@ -1,0 +1,6 @@
+*:Zone.Identifier
+.git
+node_modules
+obj/
+*.o
+minishell
