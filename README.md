@@ -4,7 +4,7 @@
 
 A minimalist implementation of a shell, mimicking the behavior of **Bash**. This project focuses on process management, file descriptors, and signal handling.
 
-This group project was developed as part of the **42 School** curriculum by:
+This project was developed as part of the **42 School** curriculum by:
 - **Gabriel Pereira** - [gneto-cpereira](https://github.com/gneto-cpereira)
 - **Yaroslav Derevenskyi** - [yadereve](https://github.com/yadereve)  
 
