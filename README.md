@@ -4,6 +4,10 @@
 
 A minimalist implementation of a shell, mimicking the behavior of **Bash**. This project focuses on process management, file descriptors, and signal handling.
 
+This group project was developed as part of the **42 School** curriculum by:
+- **Gabriel Pereira** - [gneto-cpereira](https://github.com/gneto-cpereira)
+- **Yaroslav Derevenskyi** - [yadereve](https://github.com/yadereve)  
+
 ## 🚀 Getting Started
 
 The project is fully **containerized** to ensure a consistent development environment across any OS.
@@ -44,7 +48,6 @@ _The script handles the Docker build process, X11 authorization, and runs `make`
 - **Signals**: Proper handling of `Ctrl-C`, `Ctrl-D`, and `Ctrl-\`.
     
 
----
 
 ## 📂 Project Structure
 
@@ -56,6 +59,3 @@ _The script handles the Docker build process, X11 authorization, and runs `make`
     
 - `run.sh`: Master script for Docker orchestration and execution.
     
----
-
-> [!TIP] This project was developed as part of the **42 School** curriculum.
