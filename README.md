@@ -1,4 +1,4 @@
-# 🐚 Minishell
+# Minishell
 
 ### As beautiful as a real shell.
 
@@ -8,7 +8,7 @@ This project was developed as part of the **42 School** curriculum by:
 - **Gabriel Pereira** - [gneto-cpereira](https://github.com/gneto-cpereira)
 - **Yaroslav Derevenskyi** - [yadereve](https://github.com/yadereve)  
 
-## 🚀 Getting Started
+## Getting Started
 
 The project is fully **containerized** to ensure a consistent development environment across any OS.
 
@@ -35,7 +35,7 @@ _The script handles the Docker build process, X11 authorization, and runs `make`
 
 ---
 
-## 🛠️ Features
+## Features
 
 - **Command Execution**: Search and launch executables based on the `PATH` variable.
     
@@ -49,7 +49,7 @@ _The script handles the Docker build process, X11 authorization, and runs `make`
     
 
 
-## 📂 Project Structure
+## Project Structure
 
 - `minishell_files/`: Core source code and headers.
     
